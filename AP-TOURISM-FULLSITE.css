@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-custom {
+    background-color: #0C0521;
+}
+
+.navbar-toggler-icon {
+    color: #ffffff;
+}
+
+.navbar-heading {
+    font-family: "Bree";
+    color: #FFDDA9;
+    height: 40px;
+    width: 150px;
+}
+
+#Navitem1 {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+#Navitem2 {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+#Navitem3 {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+#Navitem4 {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+#Navitem5 {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.ap-banner-section {
+    background-image: url("https://res.cloudinary.com/dchbfnlct/image/upload/v1646116928/maxresdefault_httqed.jpg");
+    background-size: cover;
+    height: 70vh;
+    background-color: #f2f4f7;
+}
+
+.company-description-section {
+    background-color: #f2f4f7;
+    background-size: cover
+}
+
+.site-title {
+    color: #323f4b;
+    font-weight: 600;
+    font-family: "Roboto";
+    font-size: 26px;
+}
+
+.site-description {
+    color: #7b8974;
+    font-weight: 500;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.services-heading {
+    color: #323f4b;
+    font-weight: 700;
+    font-size: 28px;
+    font-family: "Roboto";
+}
+
+.services-description {
+    color: #7b8974;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.service-image {
+
+    width: 100%;
+}
+
+.service-title {
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: 600;
+    color: #323f4b;
+}
+
+.service-description {
+    font-size: 20px;
+    color: #7b8974;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.tour-set-image {
+    width: 100%;
+}
+
+.set-card-title {
+    font-weight: 600;
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #323f4b;
+}
+
+.card-view-details-link {
+    color: #d0b200;
+    font-weight: 600;
+    font-family: "Bree";
+    font-size: 26px;
+}
+
+.blog-description {
+    color: #7b8974;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+}
